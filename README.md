@@ -1,3 +1,9 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x839949CAE78eb6CCA7ed7a75F8f250E264F32Cf3'
+quorum: 1
 # tea
 
 [![build](https://travis-ci.org/alefnula/tea.png)](https://travis-ci.org/alefnula/tea)
